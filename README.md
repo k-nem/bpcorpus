@@ -1,5 +1,4 @@
-# Корпус беларускай паэзіі XVIII–XX ст.
-A Corpus of Belarusian Poetry of 18-20 c.
+# A Corpus of Belarusian Poetry of 18-20 c.
 
 ## [Website](https://bpc.knem.cc)
 
